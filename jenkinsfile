@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('cloning stage') {
             steps {
-                git'https://github.com/ahmedchelsea/hello-world.git'
+                git'https://github.com/Crissy0717/hello-world.git'
             }
         }
     }
